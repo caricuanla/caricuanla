@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Website](https://img.shields.io/badge/🌐_Website-Kicau-Mania-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://167.71.199.11)
+[![Website](https://img.shields.io/badge/🌐_Website-Kicau-Mania.com-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://167.71.199.11)
 <br>
 🐦 Kicau Mania Linkbio
 <br>Platform pembuatan halaman biolink profesional untuk creator modern
