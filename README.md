@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![Website](https://img.shields.io/badge/🌐_Website-Kicaumania.com-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://167.71.199.11)
 🐦 Kicau Mania Linkbio
 <br>Platform pembuatan halaman biolink profesional untuk creator modern
 <br>
@@ -26,6 +27,9 @@ Optimasi kecepatan untuk pengalaman terbaik
 ### 🚀 Visi Ke Depan
 <br>Kami terus mengembangkan platform ini dengan fitur-fitur baru seperti custom domain, QR code generator, shortlink system, dan integrasi dengan berbagai platform sosial media. Visi kami adalah menjadi platform biolink terbaik di Indonesia dan Asia Tenggara.
 
+## 🌿 Quote Kicaumania
+> *"Burung yang rajin dilatih, suaranya merdu bagaikan mutiara jatuh di atas daun muda."*  
+> — *Mbah Kicau*
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
