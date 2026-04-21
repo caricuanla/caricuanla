@@ -10,11 +10,8 @@
 <br>🌟 Fitur Unggulan
 ### 🔗 Biolink Custom
 <br>Buat halaman biolink dengan URL custom /username Anda sendiri
-
 ### 🎨 Custom Theme
 <br>Pilih tema light/dark dan warna sesuai brand Anda
-
-
 ### 📊 Analytics
 <br>
 ### 🔍 SEO Friendly
