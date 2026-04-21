@@ -1,8 +1,6 @@
 # 💫 About Me:
 🐦 Kicau Mania Linkbio
 <br>Platform pembuatan halaman biolink profesional untuk creator modern
-
-
 <br>
 ## 🎯 Misi Kami
 <br>Biolink Generator hadir untuk membantu para creator, influencer, dan pebisnis digital dalam mengelola semua link penting mereka dalam satu halaman yang rapi dan profesional. Kami percaya bahwa setiap orang berhak memiliki halaman biolink yang menarik dan SEO-friendly.
