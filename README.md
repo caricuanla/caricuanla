@@ -5,19 +5,19 @@
 ## 🎯 Misi Kami
 <br>Biolink Generator hadir untuk membantu para creator, influencer, dan pebisnis digital dalam mengelola semua link penting mereka dalam satu halaman yang rapi dan profesional. Kami percaya bahwa setiap orang berhak memiliki halaman biolink yang menarik dan SEO-friendly.
 <br>
-<br>🌟 Fitur Unggulan
+🌟 Fitur Unggulan
 ### 🔗 Biolink Custom
-<br>Buat halaman biolink dengan URL custom /username Anda sendiri
+Buat halaman biolink dengan URL custom /username Anda sendiri
 ### 🎨 Custom Theme
-<br>Pilih tema light/dark dan warna sesuai brand Anda
+Pilih tema light/dark dan warna sesuai brand Anda
+###  🔍 SEO Friendly
+Setiap halaman dioptimalkan untuk mesin pencari Google
 ### 📊 Analytics
-<br>
-### 🔍 SEO Friendly
-<br>Setiap halaman dioptimalkan untuk mesin pencari Google
+Setiap halaman dioptimalkan untuk mesin pencari Google
 ### 📱 Mobile First
-<br>Tampilan responsif yang sempurna di semua perangkat
+Tampilan responsif yang sempurna di semua perangkat
 ### ⚡ Fast Loading
-<br>Optimasi kecepatan untuk pengalaman terbaik
+Optimasi kecepatan untuk pengalaman terbaik
 <br>
 ### 💡 Mengapa Memilih Kami?
 <br>Kami memahami bahwa sebagai creator, Anda membutuhkan platform yang reliable, cepat, dan mudah digunakan. Biolink Generator hadir dengan antarmuka yang intuitif dan fitur lengkap yang Anda butuhkan.
